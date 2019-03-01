@@ -1,0 +1,478 @@
+,address,town,latitude,longitude,price,bedrooms,agent,search_street,search_area
+0,Epirus Road,London,51.47854,-0.191796,7500000.0,5,Aylesford International,Epirus Road,London
+1,Epirus Road,London,51.48291,-0.197614,6500000.0,6,UK Sotheby's International Realty - London,Epirus Road,London
+2,Epirus Road,London,51.48291,-0.197614,3850000.0,4,John D Wood & Co. - Fulham Broadway Sales,Epirus Road,London
+3,Epirus Road,London,51.477135,-0.205733,3725000.0,5,Keller Williams Prime Properties,Epirus Road,London
+4,Epirus Road,London,51.479687,-0.199628,3000000.0,10,Keller Williams Prime Properties,Epirus Road,London
+5,Epirus Road,London,51.47536,-0.203787,3000000.0,5,Strutt & Parker - Fulham,Epirus Road,London
+6,Epirus Road,London,51.477894,-0.2035,2750000.0,5,Breteuil,Epirus Road,London
+7,Epirus Road,London,51.477726,-0.203867,2750000.0,5,Quinta estates,Epirus Road,London
+8,Epirus Road,London,51.479687,-0.199628,2750000.0,10,Allsop LLP,Epirus Road,London
+9,Epirus Road,London,51.477894,-0.2035,2750000.0,5,Chestertons - Fulham Road,Epirus Road,London
+10,Sigdon Road,London,51.54702,-0.06346,2275000.0,10,Barnard Marcus - Auctions,Sigdon Road,London
+11,Sigdon Road,London,51.543327,-0.066559,2000000.0,5,Stirling Ackroyd - Hackney,Sigdon Road,London
+12,Sigdon Road,London,51.548862,-0.051526,1800000.0,6,Keatons - Hackney,Sigdon Road,London
+13,Sigdon Road,London,51.548775,-0.0724,1695000.0,5,Keatons - Hackney,Sigdon Road,London
+14,Sigdon Road,London,51.54702,-0.06346,1690000.0,5,Stirling Ackroyd - Hackney,Sigdon Road,London
+15,Sigdon Road,London,51.549004,-0.061674,1500000.0,4,Foxtons - Hackney,Sigdon Road,London
+16,Sigdon Road,London,51.548813,-0.067985,1475000.0,4,Foxtons - Hackney,Sigdon Road,London
+17,Sigdon Road,London,51.548813,-0.067985,1475000.0,4,Knight Bishop,Sigdon Road,London
+18,Sigdon Road,London,51.548775,-0.0724,1450000.0,5,Currell - Hackney,Sigdon Road,London
+19,Sigdon Road,London,51.548775,-0.0724,1450000.0,5,Stirling Ackroyd - Dalston,Sigdon Road,London
+20,Wansey Street,London,51.494747,-0.098768,17999999.0,3,Relocate Me,Wansey Street,London
+21,Wansey Street,London,51.496876,-0.101359,3835000.0,3,London Property Guru,Wansey Street,London
+22,Wansey Street,London,51.497185,-0.099891,3835000.0,3,McMahon & Partners,Wansey Street,London
+23,Wansey Street,London,51.498512,-0.099778,3750000.0,3,McMahon & Partners,Wansey Street,London
+24,Wansey Street,London,51.496876,-0.101359,3295000.0,2,London Property Guru,Wansey Street,London
+25,Wansey Street,London,51.496876,-0.101359,3295000.0,2,London Property Guru,Wansey Street,London
+26,Wansey Street,London,51.495785,-0.09922638,0.0,2,JLL - New Homes,Wansey Street,London
+27,Wansey Street,London,51.49817,-0.092963,3000000.0,5,Hamptons International - Tower Bridge Sales,Wansey Street,London
+28,Wansey Street,London,51.4951,-0.104905,2450000.0,4,Winkworth - Kennington Sales,Wansey Street,London
+29,Wansey Street,London,51.497185,-0.099891,2050000.0,2,JLL - Elephant & Castle,Wansey Street,London
+30,Whitstable,Kent,51.34905,1.006647,1500000.0,4,Miles & Barr - Exclusive,Whitstable,Kent
+31,Whitstable,Kent,51.350117,1.016844,1450000.0,4,Christopher Hodgson,Whitstable,Kent
+32,Whitstable,Kent,51.35708,1.018307,1150000.0,4,Christopher Hodgson,Whitstable,Kent
+33,Whitstable,Kent,51.326996,1.001069,1075000.0,4,KimberWoodward,Whitstable,Kent
+34,Whitstable,Kent,51.364483,1.048062,1000000.0,4,Kent Estate Agencies,Whitstable,Kent
+35,Whitstable,Kent,51.351795,1.067142,995000.0,5,Kent Estate Agencies,Whitstable,Kent
+36,Whitstable,Kent,51.32475,0.988591,950000.0,0,WH Breading & Son Estate Agents Ltd,Whitstable,Kent
+37,Whitstable,Kent,51.355846,1.023182,895000.0,4,Christopher Hodgson,Whitstable,Kent
+38,Whitstable,Kent,51.347782,1.061473,895000.0,10,Miles & Barr - Exclusive,Whitstable,Kent
+39,Whitstable,Kent,51.351677,1.070696,895000.0,5,Kent Estate Agencies,Whitstable,Kent
+40, Wood Lane,London,53.04655,-2.293768,420000.0,4,Follwells, Wood Lane,London
+41, Wood Lane,London,53.045555,-2.296148,399950.0,5,"Purplebricks, Head Office", Wood Lane,London
+42, Wood Lane,London,53.04648,-2.266366,395000.0,3,Graham Watkins & Co, Wood Lane,London
+43, Wood Lane,London,53.04648,-2.266366,345000.0,2,Graham Watkins & Co, Wood Lane,London
+44, Wood Lane,London,53.04648,-2.266366,345000.0,2,Graham Watkins & Co, Wood Lane,London
+45, Wood Lane,London,53.047672,-2.283886,280000.0,4,"Purplebricks, Head Office", Wood Lane,London
+46, Wood Lane,London,53.047672,-2.283886,270000.0,4,"Purplebricks, Head Office", Wood Lane,London
+47, Wood Lane,London,53.04322,-2.298996,229950.0,4,Samuel Makepeace Bespoke Estate Agents - Kidsgrove, Wood Lane,London
+48, Wood Lane,London,53.05192,-2.264476,217995.0,4,Oakleaf Homes, Wood Lane,London
+49, Wood Lane,London,53.048492,-2.285592,190000.0,2,Bridgfords - Alsager, Wood Lane,London
+50,Ravey Street,London,51.52193,-0.080554,15350000.0,13,Ernest-Brooks International,Ravey Street,London
+51,Ravey Street,London,51.52193,-0.080554,8300000.0,3,Keller Williams Prime Properties,Ravey Street,London
+52,Ravey Street,London,51.521732,-0.079467,8300000.0,3,Next Move - Islington,Ravey Street,London
+53,Ravey Street,London,51.52193,-0.080554,0.0,3,Keller Williams Prime Properties,Ravey Street,London
+54,Ravey Street,London,51.52193,-0.080554,5425000.0,3,Hunters - Shoreditch,Ravey Street,London
+55,Ravey Street,London,51.52201,-0.085308,5425000.0,3,Henry Wiltshire International,Ravey Street,London
+56,Ravey Street,London,51.521732,-0.079467,5425000.0,3,Chase Apartments,Ravey Street,London
+57,Ravey Street,London,51.52193,-0.080554,5425000.0,2,Metro Village Ltd,Ravey Street,London
+58,Ravey Street,London,51.521732,-0.079467,5425000.0,3,JOHNS&CO - New Homes,Ravey Street,London
+59,Ravey Street,London,51.521732,-0.079467,5425000.0,3,Alex Neil Estate Agents - East London,Ravey Street,London
+60,Great Portland Street,London,51.52304,-0.145015,0.0,4,Aston Chase,Great Portland Street,London
+61,Great Portland Street,London,51.52908,-0.14526,13500000.0,6,Arlington Residential,Great Portland Street,London
+62,Great Portland Street,London,51.51918,-0.13798,12500000.0,3,CBRE,Great Portland Street,London
+63,Great Portland Street,London,51.521866,-0.150411,12500000.0,3,Robert Irving Burns,Great Portland Street,London
+64,Great Portland Street,London,51.526505,-0.145105,0.0,3,Sandfords - Regent's Park,Great Portland Street,London
+65,Great Portland Street,London,51.5248,-0.145319,11500000.0,5,Sandfords - Regent's Park,Great Portland Street,London
+66,Great Portland Street,London,51.51981,-0.15263993,10950000.0,4,Beauchamp Estates (Marylebone) Limited,Great Portland Street,London
+67,Great Portland Street,London,51.519394,-0.138461,9500000.0,3,CBRE,Great Portland Street,London
+68,Great Portland Street,London,51.517735,-0.147854,9150000.0,4,Druce & Co,Great Portland Street,London
+69,Great Portland Street,London,51.526505,-0.145105,8750000.0,3,Sandfords - Regent's Park,Great Portland Street,London
+70,Maida Vale,London,51.528557,-0.17844,25000000.0,4,UK Sotheby's International Realty - North London,Maida Vale,London
+71,Maida Vale,London,51.535297,-0.179368,0.0,6,Aston Chase,Maida Vale,London
+72,Maida Vale,London,51.5286,-0.166645,13000000.0,4,UK Sotheby's International Realty - North London,Maida Vale,London
+73,Maida Vale,London,51.530834,-0.173937,12800000.0,5,Beauchamp Estates,Maida Vale,London
+74,Maida Vale,London,51.530834,-0.173937,12800000.0,5,Ian Green Residential,Maida Vale,London
+75,Maida Vale,London,51.53052,-0.177655,12500000.0,5,Aston Chase,Maida Vale,London
+76,Maida Vale,London,51.530853,-0.18227,11950000.0,6,Ian Green Residential,Maida Vale,London
+77,Maida Vale,London,51.530712,-0.178455,11950000.0,4,London Real Estate Office,Maida Vale,London
+78,Maida Vale,London,51.523197,-0.183079,11250000.0,5,Ian Green Residential,Maida Vale,London
+79,Maida Vale,London,51.534004,-0.182404,9500000.0,6,Ian Green Residential,Maida Vale,London
+80,"Godolphin Road, A",London,51.866432,-4.792551,469000.0,5,Coasty Property & Estates,"Godolphin Road, A",London
+81,"Godolphin Road, A",London,51.85917,-4.816967,430000.0,2,Express Estate Agency,"Godolphin Road, A",London
+82,"Godolphin Road, A",London,51.86807,-4.851445,425000.0,7,"Purplebricks, Head Office","Godolphin Road, A",London
+83,"Godolphin Road, A",London,51.865772,-4.795764,375000.0,4,"Purplebricks, Head Office","Godolphin Road, A",London
+84,"Godolphin Road, A",London,51.862225,-4.890804,325000.0,4,YOPA,"Godolphin Road, A",London
+85,"Godolphin Road, A",London,51.85109,-4.883917,320000.0,4,Popular Move,"Godolphin Road, A",London
+86,"Godolphin Road, A",London,51.882816,-4.823256,305000.0,3,West Wales Properties - Haverfordwest,"Godolphin Road, A",London
+87,"Godolphin Road, A",London,51.882984,-4.847536,175000.0,4,J J Morris - Fishguard,"Godolphin Road, A",London
+88,"Godolphin Road, A",London,51.850437,-4.880681,163000.0,3,West Wales Properties - Haverfordwest,"Godolphin Road, A",London
+89,"Godolphin Road, A",London,51.850285,-4.878507,150000.0,3,FBM,"Godolphin Road, A",London
+90,Fassett Square,London,51.54702,-0.06346,2275000.0,10,Barnard Marcus - Auctions,Fassett Square,London
+91,Fassett Square,London,51.542637,-0.068679,2250000.0,5,Foxtons - Hackney,Fassett Square,London
+92,Fassett Square,London,51.543327,-0.066559,2000000.0,5,Stirling Ackroyd - Hackney,Fassett Square,London
+93,Fassett Square,London,51.548775,-0.0724,1695000.0,5,Keatons - Hackney,Fassett Square,London
+94,Fassett Square,London,51.54702,-0.06346,1690000.0,5,Stirling Ackroyd - Hackney,Fassett Square,London
+95,Fassett Square,London,51.549004,-0.061674,1500000.0,4,Foxtons - Hackney,Fassett Square,London
+96,Fassett Square,London,51.54794,-0.075681,1500000.0,2,Hunters - Stoke Newington,Fassett Square,London
+97,Fassett Square,London,51.548813,-0.067985,1475000.0,4,Foxtons - Hackney,Fassett Square,London
+98,Fassett Square,London,51.548813,-0.067985,1475000.0,4,Knight Bishop,Fassett Square,London
+99,Fassett Square,London,51.548775,-0.0724,1450000.0,5,Currell - Hackney,Fassett Square,London
+100,Victorian Grove,London,51.55861,-0.080842,1616995.0,6,Housesimple,Victorian Grove,London
+101,Victorian Grove,London,51.56378,-0.069472,1600000.0,6,Oakwood,Victorian Grove,London
+102,Victorian Grove,London,51.55635,-0.076537,1550000.0,4,Michael Naik,Victorian Grove,London
+103,Victorian Grove,London,51.55635,-0.076537,1550000.0,4,Foxtons - Stoke Newington,Victorian Grove,London
+104,Victorian Grove,London,51.560017,-0.078388,1375000.0,4,Next Move - Stoke Newington,Victorian Grove,London
+105,Victorian Grove,London,51.555202,-0.081115,1350000.0,5,Century 21 - Tottenham,Victorian Grove,London
+106,Victorian Grove,London,51.557167,-0.085072,1300000.0,4,Next Move - Stoke Newington,Victorian Grove,London
+107,Victorian Grove,London,51.559177,-0.072754,1250000.0,4,Knights Residential,Victorian Grove,London
+108,Victorian Grove,London,51.55504,-0.077083,1200000.0,4,Stirling Ackroyd - Hackney,Victorian Grove,London
+109,Victorian Grove,London,51.555202,-0.081115,1200000.0,5,Future Homes,Victorian Grove,London
+110,Claredale Street,London,51.531258,-0.068959,2350000.0,3,The Modern House,Claredale Street,London
+111,Claredale Street,London,51.526554,-0.06515,1500000.0,0,Kings Group - Hackney,Claredale Street,London
+112,Claredale Street,London,51.529884,-0.070286,1500000.0,3,Space Station,Claredale Street,London
+113,Claredale Street,London,51.533432,-0.057563,1200000.0,2,Peach Properties,Claredale Street,London
+114,Claredale Street,London,51.531258,-0.068959,1100000.0,2,The Modern House,Claredale Street,London
+115,Claredale Street,London,51.52919,-0.069075,1000000.0,2,Dexters - Hackney,Claredale Street,London
+116,Claredale Street,London,51.532974,-0.07169915,995000.0,2,The Shoreditch - Long and Waterson,Claredale Street,London
+117,Claredale Street,London,51.530178,-0.060888,975000.0,4,"Doorsteps.co.uk, National",Claredale Street,London
+118,Claredale Street,London,51.532974,-0.07169915,945000.0,2,The Shoreditch - Long and Waterson,Claredale Street,London
+119,Claredale Street,London,51.530155,-0.050277,930000.0,3,Keatons - Bow,Claredale Street,London
+120,Colvestone Crescent,London,51.54702,-0.06346,2275000.0,10,Barnard Marcus - Auctions,Colvestone Crescent,London
+121,Colvestone Crescent,London,51.542637,-0.068679,2250000.0,5,Foxtons - Hackney,Colvestone Crescent,London
+122,Colvestone Crescent,London,51.543327,-0.066559,2000000.0,5,Stirling Ackroyd - Hackney,Colvestone Crescent,London
+123,Colvestone Crescent,London,51.549732,-0.08348,1749995.0,4,Winkworth - Islington,Colvestone Crescent,London
+124,Colvestone Crescent,London,51.548775,-0.0724,1695000.0,5,Keatons - Hackney,Colvestone Crescent,London
+125,Colvestone Crescent,London,51.54702,-0.06346,1690000.0,5,Stirling Ackroyd - Hackney,Colvestone Crescent,London
+126,Colvestone Crescent,London,51.54445,-0.078409,1500000.0,3,Chestertons - Islington,Colvestone Crescent,London
+127,Colvestone Crescent,London,51.54794,-0.075681,1500000.0,2,Hunters - Stoke Newington,Colvestone Crescent,London
+128,Colvestone Crescent,London,51.549004,-0.061674,1500000.0,4,Foxtons - Hackney,Colvestone Crescent,London
+129,Colvestone Crescent,London,51.548813,-0.067985,1475000.0,4,Knight Bishop,Colvestone Crescent,London
+130,Belsham Street,London,51.54702,-0.06346,2275000.0,10,Barnard Marcus - Auctions,Belsham Street,London
+131,Belsham Street,London,51.548862,-0.051526,1800000.0,6,Keatons - Hackney,Belsham Street,London
+132,Belsham Street,London,51.54702,-0.06346,1690000.0,5,Stirling Ackroyd - Hackney,Belsham Street,London
+133,Belsham Street,London,51.5434,-0.045803,1650000.0,4,Michaels Property Consultants,Belsham Street,London
+134,Belsham Street,London,51.549004,-0.061674,1500000.0,4,Foxtons - Hackney,Belsham Street,London
+135,Belsham Street,London,51.543278,-0.046097,1450000.0,4,Currell - Victoria Park,Belsham Street,London
+136,Belsham Street,London,51.543278,-0.046097,1450000.0,4,Foxtons - Hackney,Belsham Street,London
+137,Belsham Street,London,51.544518,-0.062788,1375000.0,6,Barnard Marcus - Auctions,Belsham Street,London
+138,Belsham Street,London,51.54362,-0.04451,1325000.0,4,House Network,Belsham Street,London
+139,Belsham Street,London,51.547585,-0.050484,1250000.0,2,Keatons - Hackney,Belsham Street,London
+140,Lymer Avenue,London,51.427387,-0.076851,0.0,5,Hamptons International - Dulwich Sales,Lymer Avenue,London
+141,Lymer Avenue,London,51.42661,-0.078812,1499950.0,5,Pedder - Dulwich Village,Lymer Avenue,London
+142,Lymer Avenue,London,51.4308,-0.074579,1250000.0,4,Hamptons International - Dulwich Sales,Lymer Avenue,London
+143,Lymer Avenue,London,51.4308,-0.074579,925000.0,5,Pedder - Dulwich Village,Lymer Avenue,London
+144,Lymer Avenue,London,51.426353,-0.087353,900000.0,3,Housesimple,Lymer Avenue,London
+145,Lymer Avenue,London,51.429153,-0.08443,875000.0,4,"Purplebricks, Head Office",Lymer Avenue,London
+146,Lymer Avenue,London,51.42491,-0.082206,875000.0,4,Pedder - Crystal Palace,Lymer Avenue,London
+147,Lymer Avenue,London,51.42491,-0.082206,825000.0,3,Foxtons - Crystal Palace,Lymer Avenue,London
+148,Lymer Avenue,London,51.42491,-0.082206,825000.0,3,Pedder - Crystal Palace,Lymer Avenue,London
+149,Lymer Avenue,London,51.43026,-0.070099,800000.0,3,Pedder - Sydenham,Lymer Avenue,London
+150,Streatham Hill,London,51.436737,-0.148183,3200000.0,7,Hamptons International - Balham Sales,Streatham Hill,London
+151,Streatham Hill,London,51.43471,-0.153833,2450000.0,7,Heaver,Streatham Hill,London
+152,Streatham Hill,London,51.438103,-0.106056,2300000.0,5,Christopher St James Plc,Streatham Hill,London
+153,Streatham Hill,London,51.428265,-0.137866,2150000.0,5,"Purplebricks, Head Office",Streatham Hill,London
+154,Streatham Hill,London,51.437412,-0.137666,2000000.0,7,Hamptons International - Balham Sales,Streatham Hill,London
+155,Streatham Hill,London,51.45493,-0.134147,2000000.0,6,Dexters - Clapham,Streatham Hill,London
+156,Streatham Hill,London,51.451263,-0.141133,1950000.0,3,Limetrees International,Streatham Hill,London
+157,Streatham Hill,London,51.455498,-0.133749,1850000.0,5,Hamptons International - Clapham Sales,Streatham Hill,London
+158,Streatham Hill,London,51.419445,-0.113975,1800000.0,4,Martin & Co Streatham,Streatham Hill,London
+159,Streatham Hill,London,51.43674,-0.154859,1800000.0,6,Jacksons Estate Agents - Balham,Streatham Hill,London
+160,Slough,Berkshire,51.518326,-0.578758,0.0,1,Hunters - Slough,Slough,Berkshire
+161,Slough,Berkshire,51.50745,-0.585336,3500000.0,12,James Wood Estate Agents,Slough,Berkshire
+162,Slough,Berkshire,51.537212,-0.612905,2650000.0,5,Hamptons International - Gerrards Cross Sales,Slough,Berkshire
+163,Slough,Berkshire,51.537212,-0.612905,2650000.0,5,Nigel Briggs and Co Ltd,Slough,Berkshire
+164,Slough,Berkshire,51.53459,-0.587666,1700000.0,4,Hilton King & Locke,Slough,Berkshire
+165,Slough,Berkshire,51.50637,-0.581507,1500000.0,6,Chancellors - Slough,Slough,Berkshire
+166,Slough,Berkshire,51.525032,-0.66034,1230000.0,5,Lambourne Carmody,Slough,Berkshire
+167,Slough,Berkshire,51.50628,-0.512951,1225000.0,4,99Home Ltd,Slough,Berkshire
+168,Slough,Berkshire,51.528336,-0.529244,1200000.0,4,"Bovingdons, South Buckinghamshire",Slough,Berkshire
+169,Slough,Berkshire,51.528336,-0.529244,1200000.0,4,Trevor Kent & Co,Slough,Berkshire
+170,Whitstable,Kent,51.34905,1.006647,1500000.0,4,Miles & Barr - Exclusive,Whitstable,Kent
+171,Whitstable,Kent,51.350117,1.016844,1450000.0,4,Christopher Hodgson,Whitstable,Kent
+172,Whitstable,Kent,51.35708,1.018307,1150000.0,4,Christopher Hodgson,Whitstable,Kent
+173,Whitstable,Kent,51.326996,1.001069,1075000.0,4,KimberWoodward,Whitstable,Kent
+174,Whitstable,Kent,51.364483,1.048062,1000000.0,4,Kent Estate Agencies,Whitstable,Kent
+175,Whitstable,Kent,51.351795,1.067142,995000.0,5,Kent Estate Agencies,Whitstable,Kent
+176,Whitstable,Kent,51.32475,0.988591,950000.0,0,WH Breading & Son Estate Agents Ltd,Whitstable,Kent
+177,Whitstable,Kent,51.347782,1.061473,895000.0,10,Miles & Barr - Exclusive,Whitstable,Kent
+178,Whitstable,Kent,51.355846,1.023182,895000.0,4,Christopher Hodgson,Whitstable,Kent
+179,Whitstable,Kent,51.351677,1.070696,895000.0,5,Kent Estate Agencies,Whitstable,Kent
+180, Wood Lane,London,53.04655,-2.293768,420000.0,4,Follwells, Wood Lane,London
+181, Wood Lane,London,53.045555,-2.296148,399950.0,5,"Purplebricks, Head Office", Wood Lane,London
+182, Wood Lane,London,53.04648,-2.266366,395000.0,3,Graham Watkins & Co, Wood Lane,London
+183, Wood Lane,London,53.04648,-2.266366,345000.0,2,Graham Watkins & Co, Wood Lane,London
+184, Wood Lane,London,53.04648,-2.266366,345000.0,2,Graham Watkins & Co, Wood Lane,London
+185, Wood Lane,London,53.047672,-2.283886,280000.0,4,"Purplebricks, Head Office", Wood Lane,London
+186, Wood Lane,London,53.047672,-2.283886,270000.0,4,"Purplebricks, Head Office", Wood Lane,London
+187, Wood Lane,London,53.04322,-2.298996,229950.0,4,Samuel Makepeace Bespoke Estate Agents - Kidsgrove, Wood Lane,London
+188, Wood Lane,London,53.05192,-2.264476,217995.0,4,Oakleaf Homes, Wood Lane,London
+189, Wood Lane,London,53.048492,-2.285592,190000.0,2,Bridgfords - Alsager, Wood Lane,London
+190,Clink Street,London,51.506622,-0.09777932,14000000.0,3,CBRE,Clink Street,London
+191,Clink Street,London,51.512234,-0.099681795,12500000.0,3,London Property Guru,Clink Street,London
+192,Clink Street,London,51.509098,-0.08349416,10750000.0,3,Barratt London - Landmark Place,Clink Street,London
+193,Clink Street,London,51.509148,-0.084017,0.0,3,LRC - London and Surrey Sales and Lettings agency,Clink Street,London
+194,Clink Street,London,51.509098,-0.08349416,8895000.0,3,Barratt London - Landmark Place,Clink Street,London
+195,Clink Street,London,51.509098,-0.08349416,6995000.0,3,Barratt London - Landmark Place,Clink Street,London
+196,Clink Street,London,51.50682,-0.091319,5950000.0,4,The Modern House,Clink Street,London
+197,Clink Street,London,51.509148,-0.084017,0.0,2,LRC - London and Surrey Sales and Lettings agency,Clink Street,London
+198,Clink Street,London,51.509148,-0.084017,0.0,2,LRC - London and Surrey Sales and Lettings agency,Clink Street,London
+199,Clink Street,London,51.509098,-0.08349416,4995000.0,2,Barratt London - Landmark Place,Clink Street,London
+200, Wood Lane,London,53.04655,-2.293768,420000.0,4,Follwells, Wood Lane,London
+201, Wood Lane,London,53.045555,-2.296148,399950.0,5,"Purplebricks, Head Office", Wood Lane,London
+202, Wood Lane,London,53.04648,-2.266366,395000.0,3,Graham Watkins & Co, Wood Lane,London
+203, Wood Lane,London,53.04648,-2.266366,345000.0,2,Graham Watkins & Co, Wood Lane,London
+204, Wood Lane,London,53.04648,-2.266366,345000.0,2,Graham Watkins & Co, Wood Lane,London
+205, Wood Lane,London,53.047672,-2.283886,280000.0,4,"Purplebricks, Head Office", Wood Lane,London
+206, Wood Lane,London,53.047672,-2.283886,270000.0,4,"Purplebricks, Head Office", Wood Lane,London
+207, Wood Lane,London,53.04322,-2.298996,229950.0,4,Samuel Makepeace Bespoke Estate Agents - Kidsgrove, Wood Lane,London
+208, Wood Lane,London,53.05192,-2.264476,217995.0,4,Oakleaf Homes, Wood Lane,London
+209, Wood Lane,London,53.048492,-2.285592,190000.0,2,Bridgfords - Alsager, Wood Lane,London
+210,Bentinck Mews,London,51.512062,-0.149122,15000000.0,0,Carter Jonas - Mayfair & St James's,Bentinck Mews,London
+211,Bentinck Mews,London,51.52304,-0.145015,0.0,4,Aston Chase,Bentinck Mews,London
+212,Bentinck Mews,London,51.521866,-0.150411,12500000.0,3,Robert Irving Burns,Bentinck Mews,London
+213,Bentinck Mews,London,51.520718,-0.159553,12000000.0,11,Cluttons - Hyde Park,Bentinck Mews,London
+214,Bentinck Mews,London,51.51981,-0.15263993,10950000.0,4,Beauchamp Estates (Marylebone) Limited,Bentinck Mews,London
+215,Bentinck Mews,London,51.515743,-0.154305,9250500.0,5,Knightsbridge Estate Agents,Bentinck Mews,London
+216,Bentinck Mews,London,51.515743,-0.154305,9249000.0,5,Knightsbridge Estate Agents,Bentinck Mews,London
+217,Bentinck Mews,London,51.517735,-0.147854,9150000.0,4,Druce & Co,Bentinck Mews,London
+218,Bentinck Mews,London,51.51303,-0.157009,8300000.0,3,Chestertons - Mayfair,Bentinck Mews,London
+219,Bentinck Mews,London,51.51248,-0.15755,7200000.0,3,Carter Jonas - Mayfair & St James's,Bentinck Mews,London
+220,Shoreditch High Street,London,51.52193,-0.080554,15350000.0,13,Ernest-Brooks International,Shoreditch High Street,London
+221,Shoreditch High Street,London,51.52193,-0.080554,8300000.0,3,Keller Williams Prime Properties,Shoreditch High Street,London
+222,Shoreditch High Street,London,51.521732,-0.079467,8300000.0,3,Next Move - Islington,Shoreditch High Street,London
+223,Shoreditch High Street,London,51.52193,-0.080554,0.0,3,Keller Williams Prime Properties,Shoreditch High Street,London
+224,Shoreditch High Street,London,51.52193,-0.080554,5425000.0,3,Hunters - Shoreditch,Shoreditch High Street,London
+225,Shoreditch High Street,London,51.52201,-0.085308,5425000.0,3,Henry Wiltshire International,Shoreditch High Street,London
+226,Shoreditch High Street,London,51.521732,-0.079467,5425000.0,3,Chase Apartments,Shoreditch High Street,London
+227,Shoreditch High Street,London,51.52193,-0.080554,5425000.0,2,Metro Village Ltd,Shoreditch High Street,London
+228,Shoreditch High Street,London,51.521732,-0.079467,5425000.0,3,JOHNS&CO - New Homes,Shoreditch High Street,London
+229,Shoreditch High Street,London,51.521732,-0.079467,5425000.0,3,Alex Neil Estate Agents - East London,Shoreditch High Street,London
+230,Elliott Square,London,51.537415,-0.161331,16000000.0,4,UK Sotheby's International Realty - North London,Elliott Square,London
+231,Elliott Square,London,51.538338,-0.172584,16000000.0,5,Bargets,Elliott Square,London
+232,Elliott Square,London,51.537415,-0.161331,16000000.0,4,Ian Green Residential,Elliott Square,London
+233,Elliott Square,London,51.541107,-0.167945,13500000.0,5,Aston Chase,Elliott Square,London
+234,Elliott Square,London,51.537415,-0.161331,11300000.0,4,Arlington Residential,Elliott Square,London
+235,Elliott Square,London,51.539803,-0.170882,10000000.0,0,Hamptons International - Wealth Partnership,Elliott Square,London
+236,Elliott Square,London,51.541107,-0.167945,9250000.0,5,Aston Chase,Elliott Square,London
+237,Elliott Square,London,51.537415,-0.161331,7000000.0,3,Laurence Leigh Residential,Elliott Square,London
+238,Elliott Square,London,51.537415,-0.161331,6500000.0,3,Harrods Estates,Elliott Square,London
+239,Elliott Square,London,51.537415,-0.161331,6500000.0,3,Marsh & Parsons - Little Venice,Elliott Square,London
+240,Barrowgate Road,London,51.4896,-0.262703,2995000.0,5,Whitman & Co,Barrowgate Road,London
+241,Barrowgate Road,London,51.48522,-0.273658,2800000.0,6,Foxtons - Chiswick,Barrowgate Road,London
+242,Barrowgate Road,London,51.488384,-0.265443,2400000.0,6,Winkworth - Chiswick,Barrowgate Road,London
+243,Barrowgate Road,London,51.488384,-0.265443,2400000.0,6,Featherstone Leigh - Chiswick,Barrowgate Road,London
+244,Barrowgate Road,London,51.488594,-0.259025,2250000.0,5,Barnard Marcus - Chiswick,Barrowgate Road,London
+245,Barrowgate Road,London,51.489285,-0.262024,2100000.0,6,John D Wood & Co. - Chiswick Sales,Barrowgate Road,London
+246,Barrowgate Road,London,51.49057,-0.26549,1999950.0,5,Hamptons International - Chiswick Sales,Barrowgate Road,London
+247,Barrowgate Road,London,51.49057,-0.26549,1999950.0,5,Fletcher Estates,Barrowgate Road,London
+248,Barrowgate Road,London,51.49057,-0.26549,1995950.0,5,Dexters - Chiswick,Barrowgate Road,London
+249,Barrowgate Road,London,51.490925,-0.264612,1900000.0,4,Whitman & Co,Barrowgate Road,London
+250,Dingley Place,London,51.52936,-0.091775,5500000.0,2,BARNES INTERNATIONAL REALTY,Dingley Place,London
+251,Dingley Place,London,51.52936,-0.091775,5500000.0,2,RED Property Partnership,Dingley Place,London
+252,Dingley Place,London,51.52936,-0.091775,5500000.0,2,Pastor Real Estate (Mayfair Sales),Dingley Place,London
+253,Dingley Place,London,51.524914,-0.087002,4500000.0,2,Easthaus,Dingley Place,London
+254,Dingley Place,London,51.533253,-0.101446,2650000.0,2,Chestertons - Islington,Dingley Place,London
+255,Dingley Place,London,51.52374,-0.096984,2415000.0,3,Greene & Co - Clerkenwell,Dingley Place,London
+256,Dingley Place,London,51.528614,-0.09460825,2400000.0,3,Chase Evans City & Aldgate,Dingley Place,London
+257,Dingley Place,London,51.524803,-0.103426,2275000.0,1,The Modern House,Dingley Place,London
+258,Dingley Place,London,51.524803,-0.103426,2275000.0,1,Space Station,Dingley Place,London
+259,Dingley Place,London,51.521847,-0.092363,2255000.0,3,London Property Guru,Dingley Place,London
+260,Lyham Road,London,51.45493,-0.134147,2000000.0,6,Dexters - Clapham,Lyham Road,London
+261,Lyham Road,London,51.455498,-0.133749,1850000.0,5,Hamptons International - Clapham Sales,Lyham Road,London
+262,Lyham Road,London,51.4545,-0.13808,1775000.0,5,Jacksons Estate Agents - Clapham,Lyham Road,London
+263,Lyham Road,London,51.453106,-0.137661,1700000.0,5,Dexters - Clapham,Lyham Road,London
+264,Lyham Road,London,51.457363,-0.133328,1600000.0,5,"James Pendleton, Clapham Common & Brixton Office",Lyham Road,London
+265,Lyham Road,London,51.456673,-0.137401,1550000.0,4,Dexters - Clapham,Lyham Road,London
+266,Lyham Road,London,51.457073,-0.1338,1500000.0,5,Hamptons International - Clapham Sales,Lyham Road,London
+267,Lyham Road,London,51.456184,-0.121386,1499999.0,6,Oaks Estate Agents,Lyham Road,London
+268,Lyham Road,London,51.454277,-0.138319,1499999.0,4,Jacksons Estate Agents - Clapham,Lyham Road,London
+269,Lyham Road,London,51.456184,-0.121386,1499950.0,6,Andrews - Streatham,Lyham Road,London
+270,Pulross Road,London,51.471073,-0.120112,2300000.0,5,The Modern House,Pulross Road,London
+271,Pulross Road,London,51.470222,-0.126684,1360000.0,4,Hamptons International - New Homes,Pulross Road,London
+272,Pulross Road,London,51.469723,-0.124588,1355000.0,4,Marsh & Parsons - New Homes,Pulross Road,London
+273,Pulross Road,London,51.46919,-0.126683,1350000.0,4,Notting Hill Genesis - 330 Clapham Road,Pulross Road,London
+274,Pulross Road,London,51.46919,-0.126683,1350000.0,4,Hamptons International - Clapham Sales,Pulross Road,London
+275,Pulross Road,London,51.465973,-0.119443,1250000.0,5,Foxtons - Brixton,Pulross Road,London
+276,Pulross Road,London,51.465973,-0.119443,1250000.0,5,"Purplebricks, Head Office",Pulross Road,London
+277,Pulross Road,London,51.46956,-0.126106,1250000.0,4,Hamptons International - New Homes,Pulross Road,London
+278,Pulross Road,London,51.469723,-0.124588,1250000.0,4,Marsh & Parsons - New Homes,Pulross Road,London
+279,Pulross Road,London,51.4678,-0.129216,1150000.0,5,Hamptons International - Clapham Sales,Pulross Road,London
+280,Woodbridge,Suffolk,52.088097,1.287957,1500000.0,6,Exquisite Home,Woodbridge,Suffolk
+281,Woodbridge,Suffolk,52.088097,1.287957,1500000.0,6,David Burr,Woodbridge,Suffolk
+282,Woodbridge,Suffolk,52.094585,1.315071,895000.0,4,Mortimer Estate agents,Woodbridge,Suffolk
+283,Woodbridge,Suffolk,52.087433,1.30137,850000.0,4,Fine & Country - Woodbridge,Woodbridge,Suffolk
+284,Woodbridge,Suffolk,52.099342,1.306208,850000.0,4,William H Brown,Woodbridge,Suffolk
+285,Woodbridge,Suffolk,52.094585,1.315071,845000.0,5,Mortimer Estate agents,Woodbridge,Suffolk
+286,Woodbridge,Suffolk,52.09724,1.325271,825000.0,5,Mortimer Estate agents,Woodbridge,Suffolk
+287,Woodbridge,Suffolk,52.104588,1.320545,800000.0,6,William H Brown,Woodbridge,Suffolk
+288,Woodbridge,Suffolk,52.090015,1.303342,800000.0,4,Fine & Country - Woodbridge,Woodbridge,Suffolk
+289,Woodbridge,Suffolk,52.088608,1.300245,575000.0,4,Fine & Country - Woodbridge,Woodbridge,Suffolk
+290,Coningham Mews,London,51.51043,-0.22991969,4000000.0,3,The Modern House,Coningham Mews,London
+291,Coningham Mews,London,51.500874,-0.234784,3950000.0,8,Aylesford International,Coningham Mews,London
+292,Coningham Mews,London,51.500874,-0.234784,3950000.0,9,Unique Property Company London Ltd,Coningham Mews,London
+293,Coningham Mews,London,51.51043,-0.22991969,3825000.0,3,The Modern House,Coningham Mews,London
+294,Coningham Mews,London,51.506294,-0.23822,2500000.0,9,Hunters - Hillingdon,Coningham Mews,London
+295,Coningham Mews,London,51.51043,-0.22991969,2500000.0,2,The Modern House,Coningham Mews,London
+296,Coningham Mews,London,51.506294,-0.23822,2500000.0,8,Orchards of London - Ealing,Coningham Mews,London
+297,Coningham Mews,London,51.508453,-0.227502,2100000.0,4,Indago,Coningham Mews,London
+298,Coningham Mews,London,51.50642,-0.228028,2000000.0,5,Jorgensen Turner,Coningham Mews,London
+299,Coningham Mews,London,51.504993,-0.23536,1975000.0,4,Finlay Brewer,Coningham Mews,London
+300,Lewes III,East,50.872,0.009115,2450000.0,4,Lewes Estates,Lewes III,East
+301,Lewes III,East,50.882656,-0.021447,2200000.0,5,Equus Country & Equestrian,Lewes III,East
+302,Lewes III,East,50.892967,0.006164,1795000.0,6,"Doorsteps.co.uk, National",Lewes III,East
+303,Lewes III,East,50.890354,0.076465,1650000.0,6,Lewes Estates,Lewes III,East
+304,Lewes III,East,50.882656,-0.021447,0.0,4,Equus Country & Equestrian,Lewes III,East
+305,Lewes III,East,50.87327,0.019532,1200000.0,3,Rowland Gorringe,Lewes III,East
+306,Lewes III,East,50.87124,0.003667,1200000.0,2,Fox & Sons - Lewes,Lewes III,East
+307,Lewes III,East,50.87273,0.021385,950000.0,3,Strutt & Parker - Lewes,Lewes III,East
+308,Lewes III,East,50.857082,-0.01517,900000.0,4,Fox & Sons - Lewes,Lewes III,East
+309,Lewes III,East,50.85886,-0.027172,900000.0,4,Rowland Gorringe,Lewes III,East
+310,Pascoe Road,London,51.45202,-0.012862,1250000.0,6,Winkworth - Blackheath,Pascoe Road,London
+311,Pascoe Road,London,51.45706,-0.001487,1100000.0,4,McClure Estate Agents,Pascoe Road,London
+312,Pascoe Road,London,51.45482,-0.000851,920000.0,5,"Stanford Estates, Hither Green",Pascoe Road,London
+313,Pascoe Road,London,51.458416,0.000789,875000.0,5,PK Sales & Lettings Ltd,Pascoe Road,London
+314,Pascoe Road,London,51.453484,-0.010063,825000.0,6,Mann - Lewisham Sales,Pascoe Road,London
+315,Pascoe Road,London,51.459305,-0.009767,800000.0,4,Winkworth - Blackheath,Pascoe Road,London
+316,Pascoe Road,London,51.45746,0.00626,800000.0,3,Winkworth - Blackheath,Pascoe Road,London
+317,Pascoe Road,London,51.455536,-0.004821,795000.0,3,The Modern House,Pascoe Road,London
+318,Pascoe Road,London,51.452644,0.003689,775000.0,4,Winkworth - Blackheath,Pascoe Road,London
+319,Pascoe Road,London,51.454655,-0.010142,750000.0,5,Foxtons - Blackheath,Pascoe Road,London
+320,Pednor,Buckinghamshire,51.724667,-0.680132,1250000.0,5,Hamptons International - Great Missenden,Pednor,Buckinghamshire
+321,Pednor,Buckinghamshire,51.718937,-0.634278,950000.0,5,Potter & Ford Ltd,Pednor,Buckinghamshire
+322,Pednor,Buckinghamshire,51.718613,-0.63659,750000.0,5,Chancellors - Chesham,Pednor,Buckinghamshire
+323,Pednor,Buckinghamshire,51.71661,-0.631323,750000.0,4,Robsons,Pednor,Buckinghamshire
+324,Pednor,Buckinghamshire,51.715397,-0.666593,749000.0,3,The Modern House,Pednor,Buckinghamshire
+325,Pednor,Buckinghamshire,51.723377,-0.648362,745000.0,4,Hamptons International - Amersham Sales,Pednor,Buckinghamshire
+326,Pednor,Buckinghamshire,51.71454,-0.626522,700000.0,4,Chancellors - Chesham,Pednor,Buckinghamshire
+327,Pednor,Buckinghamshire,51.71454,-0.626522,700000.0,4,"Purplebricks, Head Office",Pednor,Buckinghamshire
+328,Pednor,Buckinghamshire,51.716614,-0.630006,650000.0,5,Brown & Merry - Chesham,Pednor,Buckinghamshire
+329,Pednor,Buckinghamshire,51.71795,-0.631311,650000.0,3,Brown & Merry - Chesham,Pednor,Buckinghamshire
+330,Pagnell Street,London,51.480686,-0.026119,1200000.0,6,Harman Healy,Pagnell Street,London
+331,Pagnell Street,London,51.4746,-0.032775,990000.0,4,"Purplebricks, Head Office",Pagnell Street,London
+332,Pagnell Street,London,51.476185,-0.026774,815000.0,4,McMahon & Partners,Pagnell Street,London
+333,Pagnell Street,London,51.476185,-0.026774,799950.0,4,McMahon & Partners,Pagnell Street,London
+334,Pagnell Street,London,51.476185,-0.026774,799950.0,4,McMahon & Partners,Pagnell Street,London
+335,Pagnell Street,London,51.47136,-0.032454,799000.0,4,Bryan & Keegan Ltd,Pagnell Street,London
+336,Pagnell Street,London,51.47136,-0.032454,799000.0,3,Bryan & Keegan Ltd,Pagnell Street,London
+337,Pagnell Street,London,51.47231,-0.026322,785000.0,3,Strickland & Co,Pagnell Street,London
+338,Pagnell Street,London,51.47335,-0.035277,775000.0,4,Tobeal Estates Ltd,Pagnell Street,London
+339,Pagnell Street,London,51.48274,-0.038488,766000.0,3,Prestige London Properties Ltd,Pagnell Street,London
+340,Lenham Heath,Kent,51.221024,0.732377,1750000.0,5,Fine & Country - West Malling,Lenham Heath,Kent
+341,Lenham Heath,Kent,51.23527,0.726917,800000.0,3,Ibbett Mosely - West Malling,Lenham Heath,Kent
+342,Lenham Heath,Kent,51.23527,0.726917,700000.0,3,Ibbett Mosely - West Malling,Lenham Heath,Kent
+343,Lenham Heath,Kent,51.2195,0.748169,600000.0,3,Fine & Country - West Malling,Lenham Heath,Kent
+344,Lenham Heath,Kent,51.219322,0.737117,585000.0,3,The Modern House,Lenham Heath,Kent
+345,Lenham Heath,Kent,51.234615,0.713297,425000.0,3,"Springbok Properties, Nationwide",Lenham Heath,Kent
+346,Lenham Heath,Kent,51.237335,0.716752,385000.0,3,Red Loft - The Mews at Tolhurst Way,Lenham Heath,Kent
+347,Lenham Heath,Kent,51.237335,0.716752,380000.0,3,Red Loft - The Mews at Tolhurst Way,Lenham Heath,Kent
+348,Lenham Heath,Kent,51.237335,0.716752,380000.0,3,Red Loft - The Mews at Tolhurst Way,Lenham Heath,Kent
+349,Lenham Heath,Kent,51.237335,0.716752,375000.0,3,Red Loft - The Mews at Tolhurst Way,Lenham Heath,Kent
+350,Broadstairs II,Kent,51.376984,1.434149,6500000.0,0,Lovetts Property Services,Broadstairs II,Kent
+351,Broadstairs II,Kent,51.36014,1.445173,2500000.0,7,Terence Painter,Broadstairs II,Kent
+352,Broadstairs II,Kent,51.36014,1.445173,2500000.0,7,Cooke & Co,Broadstairs II,Kent
+353,Broadstairs II,Kent,51.35632,1.439068,2200000.0,0,Jesse Holness,Broadstairs II,Kent
+354,Broadstairs II,Kent,51.36863,1.445294,2000000.0,5,Fine & Country - Canterbury,Broadstairs II,Kent
+355,Broadstairs II,Kent,51.35934,1.445199,1750000.0,9,Terence Painter,Broadstairs II,Kent
+356,Broadstairs II,Kent,51.35934,1.445199,1750000.0,9,Strutt & Parker - Canterbury,Broadstairs II,Kent
+357,Broadstairs II,Kent,51.373512,1.446882,1750000.0,6,Fine & Country - Canterbury,Broadstairs II,Kent
+358,Broadstairs II,Kent,51.373512,1.446882,1250000.0,6,Fine & Country - Canterbury,Broadstairs II,Kent
+359,Broadstairs II,Kent,51.37302,1.445336,1100000.0,5,Fine & Country - Canterbury,Broadstairs II,Kent
+360,Langham House Close IV,London,51.430763,-0.299476,3950000.0,6,Featherstone Leigh - Richmond Sales,Langham House Close IV,London
+361,Langham House Close IV,London,51.42675,-0.315563,3850000.0,5,Featherstone Leigh - Teddington,Langham House Close IV,London
+362,Langham House Close IV,London,51.436375,-0.303901,2750000.0,5,Featherstone Leigh - Richmond Sales,Langham House Close IV,London
+363,Langham House Close IV,London,51.438812,-0.308113,1790000.0,6,Antony Roberts- Richmond Sales & Lettings,Langham House Close IV,London
+364,Langham House Close IV,London,51.43999,-0.306904,1750000.0,4,Cantell & Co,Langham House Close IV,London
+365,Langham House Close IV,London,51.43643,-0.311984,1500000.0,4,Dexters - Richmond,Langham House Close IV,London
+366,Langham House Close IV,London,51.43999,-0.306904,1500000.0,4,"Purplebricks, Head Office",Langham House Close IV,London
+367,Langham House Close IV,London,51.434906,-0.312861,1395000.0,3,Chestertons - Richmond,Langham House Close IV,London
+368,Langham House Close IV,London,51.434906,-0.312861,1395000.0,3,Century 21 - Kingston,Langham House Close IV,London
+369,Langham House Close IV,London,51.42918,-0.311345,1290000.0,4,Mervyn Smith Estate Agents,Langham House Close IV,London
+370,Brixham,Devon,50.39462,-3.507291,1100000.0,13,Ridgewater,Brixham,Devon
+371,Brixham,Devon,50.38362,-3.525003,750000.0,6,Boyce Brixham,Brixham,Devon
+372,Brixham,Devon,50.39235,-3.517081,725000.0,4,Eric Lloyd,Brixham,Devon
+373,Brixham,Devon,50.399033,-3.501142,650000.0,3,Strutt & Parker - Exeter,Brixham,Devon
+374,Brixham,Devon,50.3971,-3.518499,575000.0,4,"Purplebricks, Head Office",Brixham,Devon
+375,Brixham,Devon,50.400185,-3.517134,565000.0,3,Boyce Brixham,Brixham,Devon
+376,Brixham,Devon,50.38873,-3.517599,500000.0,4,Boyce Brixham,Brixham,Devon
+377,Brixham,Devon,50.39787,-3.513838,500000.0,4,Boyce Brixham,Brixham,Devon
+378,Brixham,Devon,50.39768,-3.513481,499950.0,4,Boyce Brixham,Brixham,Devon
+379,Brixham,Devon,50.381428,-3.535426,495000.0,4,Absolute Sales & Lettings,Brixham,Devon
+380,Frinton-on-Sea,Essex,51.830746,1.240625,1350000.0,5,Fine & Country - Colchester,Frinton-on-Sea,Essex
+381,Frinton-on-Sea,Essex,51.8318,1.237986,1250000.0,5,MyLondonHome - Central London Sales,Frinton-on-Sea,Essex
+382,Frinton-on-Sea,Essex,51.828526,1.216645,730000.0,4,Fine & Country - Colchester,Frinton-on-Sea,Essex
+383,Frinton-on-Sea,Essex,51.83093,1.241117,675000.0,4,Sheens,Frinton-on-Sea,Essex
+384,Frinton-on-Sea,Essex,51.831818,1.243156,650000.0,4,Bairstow Eves - Frinton-On-Sea,Frinton-on-Sea,Essex
+385,Frinton-on-Sea,Essex,51.835598,1.244328,650000.0,5,Sheens,Frinton-on-Sea,Essex
+386,Frinton-on-Sea,Essex,51.830456,1.244625,630000.0,5,Home Domus 360,Frinton-on-Sea,Essex
+387,Frinton-on-Sea,Essex,51.835716,1.252989,575000.0,3,Sheens,Frinton-on-Sea,Essex
+388,Frinton-on-Sea,Essex,51.84135,1.232094,575000.0,4,Bloomfield Grey,Frinton-on-Sea,Essex
+389,Frinton-on-Sea,Essex,51.83995,1.24631,535000.0,5,Sheens,Frinton-on-Sea,Essex
+390,Colchester,Essex,51.923595,0.885139,2650000.0,6,Harris and Wood,Colchester,Essex
+391,Colchester,Essex,51.848385,0.894874,1495000.0,8,Jackson & Co,Colchester,Essex
+392,Colchester,Essex,51.912422,0.858348,1350000.0,5,Bloomfield Grey,Colchester,Essex
+393,Colchester,Essex,51.889095,0.859454,1300000.0,5,Fine & Country - Colchester,Colchester,Essex
+394,Colchester,Essex,51.912422,0.858348,1175000.0,5,Bloomfield Grey,Colchester,Essex
+395,Colchester,Essex,51.880745,0.817828,1000000.0,4,William H Brown - Colchester,Colchester,Essex
+396,Colchester,Essex,51.886284,0.891322,950000.0,6,Temme English,Colchester,Essex
+397,Colchester,Essex,51.88227,0.858222,950000.0,5,William H Brown - Colchester,Colchester,Essex
+398,Colchester,Essex,51.857,0.935195,900000.0,4,Exquisite Home - Chelmsford,Colchester,Essex
+399,Colchester,Essex,51.884823,0.880779,875000.0,5,Fine & Country - Colchester,Colchester,Essex
+400,Camber,East,50.93809,0.762215,625000.0,6,"Warner Gray, Tenterden",Camber,East
+401,Camber,East,50.93438,0.794862,435000.0,3,The Modern House,Camber,East
+402,Camber,East,50.93733,0.76133,270000.0,3,Reeds Rains,Camber,East
+403,Camber,East,50.936054,0.791873,255000.0,3,Reeds Rains,Camber,East
+404,Camber,East,50.935654,0.791579,250000.0,2,Reeds Rains,Camber,East
+405,Camber,East,50.93624,0.79308,250000.0,3,The Property Cafe,Camber,East
+406,Camber,East,50.93624,0.79308,245000.0,3,Reeds Rains,Camber,East
+407,Camber,East,50.938248,0.789656,235000.0,2,Reeds Rains,Camber,East
+408,Camber,East,50.93624,0.79308,230000.0,3,Express Estate Agency,Camber,East
+409,Camber,East,50.93624,0.79308,220000.0,3,"Purplebricks, Head Office",Camber,East
+410,Matlock,Derbyshire,53.07382,-1.682904,2750000.0,7,Fine & Country - Derby,Matlock,Derbyshire
+411,Matlock,Derbyshire,53.0937,-1.565864,1600000.0,5,Fletcher & Company,Matlock,Derbyshire
+412,Matlock,Derbyshire,53.152016,-1.64197,1450000.0,6,Fisher German Ashby De La Zouch,Matlock,Derbyshire
+413,Matlock,Derbyshire,53.152016,-1.64197,1300000.0,6,Fisher German Ashby De La Zouch,Matlock,Derbyshire
+414,Matlock,Derbyshire,53.19374,-1.599369,1150000.0,5,Sally Botham Estates Ltd,Matlock,Derbyshire
+415,Matlock,Derbyshire,53.14515,-1.551934,1000000.0,6,Humberts - Nottingham,Matlock,Derbyshire
+416,Matlock,Derbyshire,53.14186,-1.640186,995950.0,6,YOPA,Matlock,Derbyshire
+417,Matlock,Derbyshire,53.13535,-1.564159,975000.0,0,Fidler Taylor,Matlock,Derbyshire
+418,Matlock,Derbyshire,53.077217,-1.624409,950000.0,5,Bagshaws Residential - Ashbourne,Matlock,Derbyshire
+419,Matlock,Derbyshire,53.146484,-1.609811,900000.0,4,Bagshaws,Matlock,Derbyshire
+420,Anderby Creek,Lincolnshire,53.259705,0.321213,265000.0,3,Masons Sales & Lettings,Anderby Creek,Lincolnshire
+421,Anderby Creek,Lincolnshire,53.261,0.320293,124950.0,2,Beam Estate Agents,Anderby Creek,Lincolnshire
+422,Anderby Creek,Lincolnshire,53.261,0.320293,90000.0,2,William H Brown - Skegness,Anderby Creek,Lincolnshire
+423,Anderby Creek,Lincolnshire,53.261,0.320293,86000.0,2,"Hunters - Turner Evans Stevens, Skegness",Anderby Creek,Lincolnshire
+424,Redberry Grove,London,51.44003,-0.054578,2400000.0,2,Warehouse Home,Redberry Grove,London
+425,Redberry Grove,London,51.43204,-0.045667,1350000.0,6,Leaders - Forest Hill Sales,Redberry Grove,London
+426,Redberry Grove,London,51.43953,-0.058614,1250000.0,4,Leaders - Forest Hill Sales,Redberry Grove,London
+427,Redberry Grove,London,51.43953,-0.058614,1250000.0,4,"Purplebricks, Head Office",Redberry Grove,London
+428,Redberry Grove,London,51.435917,-0.048437,1150000.0,5,Wooster & Stock,Redberry Grove,London
+429,Redberry Grove,London,51.44003,-0.054578,1100000.0,3,Urban Spaces Sales,Redberry Grove,London
+430,Redberry Grove,London,51.43413,-0.050153,1095000.0,4,Barnard Marcus - Sydenham,Redberry Grove,London
+431,Redberry Grove,London,51.43604,-0.057827,995000.0,5,Irwin Scott Estate Agents,Redberry Grove,London
+432,Redberry Grove,London,51.438526,-0.046383,850000.0,4,Hamptons International - Dulwich Sales,Redberry Grove,London
+433,Redberry Grove,London,51.433826,-0.06323,800000.0,3,Wooster & Stock,Redberry Grove,London
+434,Bressingham II,Norfolk,52.42068,1.068139,799000.0,4,The Modern House,Bressingham II,Norfolk
+435,Bressingham II,Norfolk,52.42068,1.068139,599000.0,4,The Modern House,Bressingham II,Norfolk
+436,Bressingham II,Norfolk,52.3852,0.93985,500000.0,5,William H Brown,Bressingham II,Norfolk
+437,Bressingham II,Norfolk,52.393566,0.945228,485000.0,5,YOPA,Bressingham II,Norfolk
+438,Bressingham II,Norfolk,52.39867,0.942892,465000.0,4,Whittley Parish,Bressingham II,Norfolk
+439,Bressingham II,Norfolk,52.39093,1.069602,425000.0,3,William H Brown,Bressingham II,Norfolk
+440,Bressingham II,Norfolk,52.39568,1.072343,400000.0,4,Fine & Country - Diss & Harleston,Bressingham II,Norfolk
+441,Bressingham II,Norfolk,52.3893,0.945311,395000.0,4,YOPA,Bressingham II,Norfolk
+442,Bressingham II,Norfolk,52.405113,0.94813,350000.0,2,Fine & Country - Diss & Harleston,Bressingham II,Norfolk
+443,Bressingham II,Norfolk,52.39093,1.069602,300000.0,3,Fine & Country - Diss & Harleston,Bressingham II,Norfolk
+444,Fulbourn,Cambridge,52.18508,0.217325,1000000.0,6,Cheffins - Cambridge,Fulbourn,Cambridge
+445,Fulbourn,Cambridge,52.177277,0.224513,730000.0,3,Grant Berry,Fulbourn,Cambridge
+446,Fulbourn,Cambridge,52.185425,0.226895,675000.0,4,Cooke Curtis & Co,Fulbourn,Cambridge
+447,Fulbourn,Cambridge,52.18467,0.20819,650000.0,4,Sharman Quinney,Fulbourn,Cambridge
+448,Fulbourn,Cambridge,52.166435,0.241988,465000.0,3,Cooke Curtis & Co,Fulbourn,Cambridge
+449,Fulbourn,Cambridge,52.180412,0.217444,425000.0,3,"Purplebricks, Head Office",Fulbourn,Cambridge
+450,Fulbourn,Cambridge,52.18404,0.211158,425000.0,3,Vincent Shaw Residential,Fulbourn,Cambridge
+451,Fulbourn,Cambridge,52.182926,0.210957,410000.0,3,Bush,Fulbourn,Cambridge
+452,Fulbourn,Cambridge,52.184757,0.179405,375000.0,3,"Purplebricks, Head Office",Fulbourn,Cambridge
+453,Fulbourn,Cambridge,52.186157,0.216983,375000.0,3,Morris Armitage,Fulbourn,Cambridge
+454,How Green,Kent,51.196335,0.108328,695000.0,4,The Modern House,How Green,Kent
+455,Hellidon,Northamptonshire,52.218307,-1.245918,675000.0,4,The Modern House,Hellidon,Northamptonshire
+456,Hellidon,Northamptonshire,52.21899,-1.244589,495000.0,3,Fisher German LLP,Hellidon,Northamptonshire
+457,Bressingham,Norfolk,52.42068,1.068139,799000.0,4,The Modern House,Bressingham,Norfolk
+458,Bressingham,Norfolk,52.42068,1.068139,599000.0,4,The Modern House,Bressingham,Norfolk
+459,Bressingham,Norfolk,52.3852,0.93985,500000.0,5,William H Brown,Bressingham,Norfolk
+460,Bressingham,Norfolk,52.393566,0.945228,485000.0,5,YOPA,Bressingham,Norfolk
+461,Bressingham,Norfolk,52.39867,0.942892,465000.0,4,Whittley Parish,Bressingham,Norfolk
+462,Bressingham,Norfolk,52.39093,1.069602,425000.0,3,William H Brown,Bressingham,Norfolk
+463,Bressingham,Norfolk,52.39568,1.072343,400000.0,4,Fine & Country - Diss & Harleston,Bressingham,Norfolk
+464,Bressingham,Norfolk,52.3893,0.945311,395000.0,4,YOPA,Bressingham,Norfolk
+465,Bressingham,Norfolk,52.405113,0.94813,350000.0,2,Fine & Country - Diss & Harleston,Bressingham,Norfolk
+466,Bressingham,Norfolk,52.39093,1.069602,300000.0,3,Fine & Country - Diss & Harleston,Bressingham,Norfolk
+467,Trimingham,Norfolk,52.89723,1.388114,560000.0,4,The Modern House,Trimingham,Norfolk
+468,Trimingham,Norfolk,52.899563,1.223299,525000.0,3,William H Brown Select - Norwich,Trimingham,Norfolk
+469,Trimingham,Norfolk,52.874287,1.327953,460000.0,3,Henleys estate agents,Trimingham,Norfolk
+470,Trimingham,Norfolk,52.898064,1.38284,450000.0,6,William H Brown - Cromer,Trimingham,Norfolk
+471,Trimingham,Norfolk,52.89696,1.390146,435000.0,4,Henleys estate agents,Trimingham,Norfolk
+472,Trimingham,Norfolk,52.898064,1.38284,425000.0,5,Abbotts - Cromer Sales,Trimingham,Norfolk
+473,Trimingham,Norfolk,52.898422,1.215511,395000.0,4,Henleys estate agents,Trimingham,Norfolk
+474,Trimingham,Norfolk,52.898586,1.212891,365000.0,4,Henleys estate agents,Trimingham,Norfolk
+475,Trimingham,Norfolk,52.873955,1.328923,365000.0,3,Henleys estate agents,Trimingham,Norfolk
+476,Trimingham,Norfolk,52.876137,1.326772,300000.0,2,Henleys estate agents,Trimingham,Norfolk
